@@ -10,7 +10,7 @@ Esse projeto foi tirado de um dos desafios do Discover, disponibilizado de forma
 
 Um projeto que tem como objetivo simular a interface de uma tela de login responsiva.
 
-Para mais detalhes sobre o projeto você pode conferir clicando [AQUI](https://app.rocketseat.com.br/discover/challenges/pricetable).
+Para mais detalhes sobre o projeto você pode conferir clicando [AQUI](https://app.rocketseat.com.br/discover/challenges/login-form-css).
 
 ---
 
