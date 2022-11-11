@@ -1,9 +1,7 @@
 <h1 align="center"> Desafio Login Form :computer: </h1>
 
 
-<p align="center">
-  <img alt="Página Login Form" src=".github/Capa.jpeg" width="100%">
-</p>
+
 
 
 ## Sobre o projeto
