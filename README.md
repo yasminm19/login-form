@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img alt="Página Login Form" src=".github/Capa.jpeg" width="100%">
+  <img alt="Página Login Form" src="./github/Capa.jpeg" width="100%">
 </p>
 
 
