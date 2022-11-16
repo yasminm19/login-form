@@ -1,8 +1,9 @@
 <h1 align="center"> Desafio Login Form :computer: </h1>
 
 
+<p align="center"> <img src=".github/Capa.jpg" alt="Camp"> </p>
 
-
+<hr>
 
 ## Sobre o projeto
 
