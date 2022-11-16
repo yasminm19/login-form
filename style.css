@@ -211,11 +211,6 @@ input:focus-within {
     top: 0;
     position: absolute;
   }
-  #eye {
-    /* margin-top: 72px; */
-    position: fixed;
-    top: 25em;
-  }
 }
 
 @media (max-width: 600px) {
